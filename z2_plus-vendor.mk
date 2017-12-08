@@ -560,6 +560,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_plus/proprietary/bin/energy-awareness:system/bin/energy-awareness \
     vendor/zuk/z2_plus/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/zuk/z2_plus/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
+    vendor/zuk/z2_plus/proprietary/bin/ssr_setup:system/bin/ssr_setup \
     vendor/zuk/z2_plus/proprietary/etc/public.libraries.txt:system/etc/public.libraries.txt \
     vendor/zuk/z2_plus/proprietary/etc/dpm/nsrm/NsrmConfiguration.xml:system/etc/dpm/nsrm/NsrmConfiguration.xml \
     vendor/zuk/z2_plus/proprietary/etc/dpm/dpm.conf:system/etc/dpm/dpm.conf \
